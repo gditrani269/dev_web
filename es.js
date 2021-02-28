@@ -8,7 +8,7 @@
       };
 
 	  function delboton () {
-		const user = document.getElementById("IdUser");
+		const user = document.getElementById("IdUser --");
 		const pass = document.getElementById("IdPass");
 		if (user.value != "")
 			console.log (user.value)
